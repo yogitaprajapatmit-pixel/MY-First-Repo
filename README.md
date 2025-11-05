@@ -1,2 +1,3 @@
 # MY-First-Repo
-This is my First Git REpository
+This is my First Git REpository.
+Author - Neeta 
